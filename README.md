@@ -1,7 +1,7 @@
-# Bekir can aracı
-# Shark Attacks & Ocean Temperature Analysis
+# The creator of the project: Bekir can aracı
+# Project: Shark Attacks & Increasing temperatures
 
-## Purpose of the project
+## Main Purpose of the project
 
 The aim of this project is to analyze the relationship between shark attacks and ocean temperature changes. By analyzing shark attacks dataset and temperature dataset, My aim is identifying potential patterns or correlations that may reveal a connection between increasing land-ocean temperatures and the frequency of shark attacks. This project could provide theoritical insights whether the shark attacks are related with temperature changes.
 
