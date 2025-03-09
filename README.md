@@ -1,9 +1,9 @@
-# Bekir can aracı
-# Project: Shark Attacks & Land-Ocean Temperature
+# Dsa 210 project
+
 
 ## Main Purpose of the project
 
-The aim of this project is to analyze the relationship between shark attacks and ocean temperature changes. By analyzing shark attacks dataset and temperature dataset, My aim is identifying potential patterns or correlations that may reveal a connection between increasing land-ocean temperatures and the frequency of shark attacks. This project could provide theoritical insights whether the shark attacks are related with temperature changes.
+In this project, I will attempt to examine how the consequences of temperature change affect shark behavior and which areas are most likely to be affected. My main goal is to understand how sharks react to climate changes. This way, we can think about when to enter the ocean and feel safer when entering the ocean.  
 
 ## Main Objectives:
 - Analyzing shark attack data, including country, year, and attack details.
