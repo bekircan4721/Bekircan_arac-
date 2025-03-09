@@ -1,4 +1,4 @@
-# Bekircan_aracı
+# Bekir can aracı
 # Shark Attacks & Ocean Temperature Analysis
 
 ## Purpose of the project
