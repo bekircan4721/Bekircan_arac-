@@ -26,7 +26,7 @@ I have been interested in sharks since my childhood,thats why researching how cl
 - I will use python to visualize my analysis, and with the help of the libraries like pandas, matplotlib, seaborn, I will visualize my results.
 
 ## Report
-#  - The main objective of this project is observe the relationship between the temperature changes and sharks. This project aims to reveal which factors affect shark attacks and how it affects.
+ - The main objective of this project is observe the relationship between the temperature changes and sharks. This project aims to reveal which factors affect shark attacks and how it affects.
 ## Hypothesis
 # - H0(Null hyphotesis)
 - There is no relationship between shark attacks and temperature
