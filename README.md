@@ -16,7 +16,7 @@ I have been interested in sharks since my childhood,thats why researching how cl
 -  https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt
 ## Data Analysis
 
-# - Data Cleaning: I will clean the datasets if needed. For example if there are columns like null valued, I will determine whether fill those rows, or drop these rows.
+ - Data Cleaning: I will clean the datasets if needed. For example if there are columns like null valued, I will determine whether fill those rows, or drop these rows.
 - Shark attack dataset will be analyzed by categories such as country, year,Fatality,Location and attack details, and in the Temperature datasets I will focus on categories like Year, Wo(World Ocean),NH(Northern Hemisphere),SH(Southern Hemisphere).
 - Shark attack dataset will be enriched with temperature datasets. As a result, we can observe how sharks react to temperature change.
 - Exploring potential correlations between rising ocean temperatures and shark attacks.
