@@ -35,7 +35,10 @@ I will clean the datasets if needed. For example if there are columns like null 
 - There is no relationship between shark attacks and temperature
 # - H1(Alternative hyphotesis)
 - Obviously there is a relationship between the shark attacks and temperature
-  
+
+
+![image](https://github.com/user-attachments/assets/c289f2f2-fd26-4dc3-bc4b-09a9d0f65355)
+
 
   
 
