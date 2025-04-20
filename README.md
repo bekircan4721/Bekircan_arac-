@@ -61,7 +61,8 @@ I will clean the datasets if needed. For example if there are columns like null 
 - This test gives better results when there is a linear correlation.
 - Again I calculated the result by importing Scipy library.
 - P value is again 0.0 and Pearson correlation is 0.674 this time , and t-value is 7.062, and df is 60 because the length of the merged dataframe is 62 and there are two categories 62-2
-- ![image](https://github.com/user-attachments/assets/d97422c3-87a7-42df-9b71-6875f24801e1)
+- ![image](https://github.com/user-attachments/assets/30057e28-3a63-4c08-8d86-36c51b5e697e)
+
 
 
 
