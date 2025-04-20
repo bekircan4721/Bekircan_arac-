@@ -41,13 +41,14 @@ I will clean the datasets if needed. For example if there are columns like null 
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
  - After I merged these datasets, I calculated the correlation score.
  - Then I calculated the correlation.
- - I visiualized the merged dataset with multiple techniques like scatterplot, histogram.
+ - I visiualized the merged dataset with multiple techniques like scatterplot, histogram, boxplot.
 ![image](https://github.com/user-attachments/assets/fb8216bb-578c-48a6-8827-37173cfd1605)
 
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
 
 ![image](https://github.com/user-attachments/assets/b3c7d4c1-9361-40bd-95e5-a74e09ed6aed)
 
+![image](https://github.com/user-attachments/assets/b0da7ca3-7ab9-41c0-b0b1-7f5962634978)
 
 
   
