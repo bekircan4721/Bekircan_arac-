@@ -43,14 +43,13 @@ I will clean the datasets if needed. For example if there are columns like null 
  - Then I calculated the correlation.
  - I visiualized the merged dataset with multiple techniques like scatterplot, histogram, boxplot.
 ![image](https://github.com/user-attachments/assets/fb8216bb-578c-48a6-8827-37173cfd1605)
-- There is a visible relationship, but we will elaborate deeper.
+
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
-- Eventhough there is no visible difference in barplot, we will elaborately examine this relationship with P-values.
 
 ![image](https://github.com/user-attachments/assets/b3c7d4c1-9361-40bd-95e5-a74e09ed6aed)
 
 ![image](https://github.com/user-attachments/assets/7596f842-4cf7-436a-bd76-d0b19e8e5fc8)
-
+- It seems like there is a clear relationship between Ocean temperature and Shark attacks when we look at the scatterplot , and boxplot distrubution. However, the difference seems like less if we look at barplot
 ## Calculating P-value with different methods
 # Spearman Correlation
 - This test gives better results when there is a correlation but the correlation is not linear.
