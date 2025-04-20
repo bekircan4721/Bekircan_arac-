@@ -49,7 +49,7 @@ I will clean the datasets if needed. For example if there are columns like null 
 ![image](https://github.com/user-attachments/assets/b3c7d4c1-9361-40bd-95e5-a74e09ed6aed)
 
 ![image](https://github.com/user-attachments/assets/7596f842-4cf7-436a-bd76-d0b19e8e5fc8)
-- It seems like there is a clear relationship between Ocean temperature and Shark attacks when we look at the scatterplot , and boxplot distrubution. However, the difference seems like less if we look at barplot
+- It seems like there is a clear relationship between Ocean temperature and Shark attacks when we look at the scatterplot , and boxplot distrubution. However, the difference seems like less if we look at only barplot. Therefore, sometimes distrubution charts may be speculative.
 ## Calculating P-value with different methods
 # Spearman Correlation
 - This test gives better results when there is a correlation but the correlation is not linear.
