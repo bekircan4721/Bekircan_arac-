@@ -44,8 +44,6 @@ I will clean the datasets if needed. For example if there are columns like null 
  - I visiualized the merged dataset with multiple techniques like scatterplot, histogram.
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
 
-![image](https://github.com/user-attachments/assets/c289f2f2-fd26-4dc3-bc4b-09a9d0f65355)
-
 ![image](https://github.com/user-attachments/assets/dd388f8d-a2db-4cb2-aca5-a565e72ef23c)
 
 
