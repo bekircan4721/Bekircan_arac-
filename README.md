@@ -36,6 +36,13 @@ I will clean the datasets if needed. For example if there are columns like null 
 # - H1(Alternative hyphotesis)
 - Obviously there is a relationship between the shark attacks and temperature
 
+## Explanatory Data Analysis
+ - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
+ - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
+ - After I merged these datasets, I calculated the correlation score.
+ - Then I calculated the correlation.
+ - I visiualized the merged dataset with multiple techniques like scatterplot, histogram.
+![image](https://github.com/user-attachments/assets/9758f6f9-8103-4bf5-908f-0a495a2b3bae)
 
 ![image](https://github.com/user-attachments/assets/c289f2f2-fd26-4dc3-bc4b-09a9d0f65355)
 
