@@ -42,6 +42,8 @@ I will clean the datasets if needed. For example if there are columns like null 
  - After I merged these datasets, I calculated the correlation score.
  - Then I calculated the correlation.
  - I visiualized the merged dataset with multiple techniques like scatterplot, histogram.
+![image](https://github.com/user-attachments/assets/fb8216bb-578c-48a6-8827-37173cfd1605)
+
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
 
 ![image](https://github.com/user-attachments/assets/dd388f8d-a2db-4cb2-aca5-a565e72ef23c)
