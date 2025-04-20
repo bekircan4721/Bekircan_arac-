@@ -50,6 +50,19 @@ I will clean the datasets if needed. For example if there are columns like null 
 
 ![image](https://github.com/user-attachments/assets/7596f842-4cf7-436a-bd76-d0b19e8e5fc8)
 
+## Calculating P-value with different methods
+# Spearman Correlation
+- This test gives better results when there is a correlation but the correlation is not linear.
+- I calculated the result of Spearman correlation test with importing scipy library.
+- P value is 0.0 and Spearman correlation is 0.567 which indicates there is a non-linear correlation between shark attacks and ocean temperatures, but that correlation
+- ![image](https://github.com/user-attachments/assets/cf6654d5-bef4-4b57-8927-4d363e7bfe28)
+
+# Pearson Correlation
+- This test gives better results when there is a linear correlation.
+- Again I calculated the result by importing Scipy library.
+- P value is again 0.0 and Pearson correlation is 0.674 this time , and t-value is 7.062, and df is 60 because the length of the merged dataframe is 62 and there are two categories 62-2
+- ![image](https://github.com/user-attachments/assets/d97422c3-87a7-42df-9b71-6875f24801e1)
+
 
 
   
