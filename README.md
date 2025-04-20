@@ -42,9 +42,12 @@ I will clean the datasets if needed. For example if there are columns like null 
  - After I merged these datasets, I calculated the correlation score.
  - Then I calculated the correlation.
  - I visiualized the merged dataset with multiple techniques like scatterplot, histogram.
-![image](https://github.com/user-attachments/assets/9758f6f9-8103-4bf5-908f-0a495a2b3bae)
+![image](https://github.com/user-attachments/assets/aca228c3-5743-4ee7-80ee-bcec0655d641)
+
 
 ![image](https://github.com/user-attachments/assets/c289f2f2-fd26-4dc3-bc4b-09a9d0f65355)
+
+![image](https://github.com/user-attachments/assets/dd388f8d-a2db-4cb2-aca5-a565e72ef23c)
 
 
   
