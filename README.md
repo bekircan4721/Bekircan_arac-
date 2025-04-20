@@ -46,7 +46,8 @@ I will clean the datasets if needed. For example if there are columns like null 
 
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
 
-![image](https://github.com/user-attachments/assets/dd388f8d-a2db-4cb2-aca5-a565e72ef23c)
+![image](https://github.com/user-attachments/assets/b3c7d4c1-9361-40bd-95e5-a74e09ed6aed)
+
 
 
   
