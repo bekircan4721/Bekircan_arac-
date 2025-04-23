@@ -38,17 +38,15 @@ I will clean the datasets if needed. For example if there are columns like null 
 
 ## Explanatory Data Analysis
  - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
- - I visiualized the year and shark attack count at that year.
-  
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
-
-
-
+ - I visiualized the year and shark attack count at that year
+ - ## Yearly Shark attacks
+ - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
- - After I merged these datasets, I calculated the correlation score.
+ - After I merged these datasets, I explored the data by plotting scatterplot distribution of yearly shark_attacks  vs ocean temperature
  - Then I calculated the correlation.
- - I visiualized the merged dataset with multiple techniques like scatterplot, histogram, boxplot.
+ - ## Shark attack vs Temperature
+ - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
+
 ![image](https://github.com/user-attachments/assets/fb8216bb-578c-48a6-8827-37173cfd1605)
 
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
