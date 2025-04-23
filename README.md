@@ -39,9 +39,11 @@ I will clean the datasets if needed. For example if there are columns like null 
 ## Explanatory Data Analysis
  - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
  - I visiualized the year and shark attack count at that year.
- - ## Shark Year Notebook
+  
 
-[Bu Notebook'u GitHub'dan Görüntüleyin](https://github.com/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
+
+
 
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
  - After I merged these datasets, I calculated the correlation score.
