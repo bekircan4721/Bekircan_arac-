@@ -44,9 +44,9 @@ I will clean the datasets if needed. For example if there are columns like null 
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
  - After I merged these datasets, I explored the data by plotting scatterplot distribution of yearly shark_attacks  vs ocean temperature
  - Then I calculated the correlation.
- - ## Shark attack vs Temperature
+ - ## Shark Attack vs Ocean Temperature
  - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
-
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7SLQ2iKRxZwDdhksx-xweh42c_FPsWO?authuser=0#scrollTo=lumaOt79L19q)
 ![image](https://github.com/user-attachments/assets/fb8216bb-578c-48a6-8827-37173cfd1605)
 
 ![image](https://github.com/user-attachments/assets/63e748f6-9d49-4bce-a389-37811eb34a7a)
@@ -69,7 +69,7 @@ I will clean the datasets if needed. For example if there are columns like null 
 - ![image](https://github.com/user-attachments/assets/30057e28-3a63-4c08-8d86-36c51b5e697e)
 ## Projeyi Google Colab Üzerinde Çalıştır
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7SLQ2iKRxZwDdhksx-xweh42c_FPsWO?authuser=0#scrollTo=lumaOt79L19q)
+
 
   
 
