@@ -27,7 +27,7 @@ I will clean the datasets if needed. For example if there are columns like null 
 
 # Data Visualization
 - I will use python to visualize my analysis, and with the help of the libraries like pandas, matplotlib, seaborn, I will visualize my results.
-
+[nbviewer ile aç](https://nbviewer.org/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
 ## Report
  - The main objective of this project is observe the relationship between the temperature changes and sharks. This project aims to reveal which factors affect shark attacks and how it affects.
 ## Hypothesis
