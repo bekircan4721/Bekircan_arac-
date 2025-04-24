@@ -40,6 +40,7 @@ I will clean the datasets if needed. For example if there are columns like null 
  - I visiualized the year and shark attack count at that year
  - ## Yearly Shark attacks
  - ![image](https://github.com/user-attachments/assets/1be4b73f-9f86-44a6-a27d-b4c018251103)
+ - Code of the shark attacks :
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
 
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
