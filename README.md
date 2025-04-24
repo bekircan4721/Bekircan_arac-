@@ -36,6 +36,7 @@ I will clean the datasets if needed. For example if there are columns like null 
 - Obviously there is a relationship between the shark attacks and temperature
 
 ## Explanatory Data Analysis
+ - I analyzed attacks.csv dataset, and I choose most related categories such as "Year" , "location".
  - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
  - I visiualized the year and shark attack count at that year
  - ## Yearly Shark attacks
