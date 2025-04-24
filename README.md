@@ -39,13 +39,13 @@ I will clean the datasets if needed. For example if there are columns like null 
  - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
  - I visiualized the year and shark attack count at that year
  - ## Yearly Shark attacks
- - [nbviewer ile aç](https://nbviewer.org/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
+ - [Shark attacks](https://nbviewer.org/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
  - After I merged these datasets, I explored the data by plotting scatterplot distribution of yearly shark_attacks  vs ocean temperature
  - Then I calculated the correlation.
  - ## Shark Attack vs Ocean Temperature
  - I used merged dataset to visualize Shark Attacks vs Ocean Temperature with different visualization techniques such as scatterplot, barplot, boxplot.
- - [nbviewer ile aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7SLQ2iKRxZwDdhksx-xweh42c_FPsWO?authuser=0#scrollTo=lumaOt79L19q)
+ - [Merged](https://colab.research.google.com/assets/colab-badge.svg)]
 
 - It seems like there is a clear relationship between Ocean temperature and Shark attacks when we look at the scatterplot , and boxplot distrubution. However, the difference seems like less if we look at only barplot. Therefore, sometimes distrubution charts may be speculative.
 ## Calculating P-value with different methods
