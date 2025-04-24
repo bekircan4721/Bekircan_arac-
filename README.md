@@ -40,6 +40,9 @@ I will clean the datasets if needed. For example if there are columns like null 
  - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
  - I visiualized the year and shark attack count at that year
  - ## Yearly Shark attacks
+ - Top 10 Shark attack location
+ - ![image](https://github.com/user-attachments/assets/29cf6877-ce43-490d-89e4-9b6a3f542314)
+ - Code of most 10 Shark attack location: 
  - ![image](https://github.com/user-attachments/assets/1be4b73f-9f86-44a6-a27d-b4c018251103)
  - Code of the shark attacks : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
 
