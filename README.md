@@ -48,6 +48,7 @@ I will clean the datasets if needed. For example if there are columns like null 
  - ## Analyzing Shark Attack vs Ocean Temperature
  - I used merged dataset to visualize Shark Attacks vs Ocean Temperature with different visualization techniques such as scatterplot, barplot, boxplot.
  - ![image](https://github.com/user-attachments/assets/c2d07cbd-ce36-4ba6-86a1-652b22e66ba2)
+ - ![image](https://github.com/user-attachments/assets/12e83ada-b9b3-4d8f-99dd-4ac25bdf1f6c)
 
  - Code : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/explaining_data.ipynb)
 
