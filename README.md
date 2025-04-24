@@ -39,7 +39,9 @@ I will clean the datasets if needed. For example if there are columns like null 
  - Firstly I started cleaning the shark attack dataset because there were some missing values in Year category, which is the most important category for this project.
  - I visiualized the year and shark attack count at that year
  - ## Yearly Shark attacks
- - [Shark attacks](https://nbviewer.org/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
+ - ![image](https://github.com/user-attachments/assets/1be4b73f-9f86-44a6-a27d-b4c018251103)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/shark_year.ipynb)
+
  - I filtered both the shark attacks dataset and temperature dataset, then I merged them.
  - After I merged these datasets, I explored the data by plotting scatterplot distribution of yearly shark_attacks  vs ocean temperature
  - Then I calculated the correlation.
