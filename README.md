@@ -70,7 +70,8 @@ I will clean the datasets if needed. For example if there are columns like null 
 - Again I calculated the result by importing Scipy library.
 - P value is again 0.0, Pearson correlation is 0.674, t-value is 7.062, and df is 60 because the length of the merged dataframe is 62 and there are two categories (62-2).
 - ![image](https://github.com/user-attachments/assets/30057e28-3a63-4c08-8d86-36c51b5e697e)
-## Code of Correlations : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Shark_locations.ipynb)
+## Code of Correlations : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Correlations.ipynb)
+
 
 
 
