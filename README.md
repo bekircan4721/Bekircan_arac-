@@ -132,7 +132,8 @@ I will clean the datasets if needed. For example if there are columns like null 
 - The R^^2 value increased to 0.89 which means this model almost predicts my data with 90% accuracy rate.
 - Moreover, while the MSE rate remains at 0.073 (which is the lowest one), indicates that this model not only outperforms the other models, but also has most accurate predictions. Therefore, I conclude that this is currently the most suitable model for my data.
 # Codes For Machine Learning part
-- 📘 [Machine_learning.ipynb](https://github.com/Bekircan-arac/Machine_learning/blob/main/Machine_learning.ipynb)
+- 🚀 [Google Colab'da Aç](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning.ipynb)
+
 
 
 
