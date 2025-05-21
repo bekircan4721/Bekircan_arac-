@@ -73,6 +73,24 @@ I will clean the datasets if needed. For example if there are columns like null 
 - Since both p-values are smaller than 0.05, we have to reject HO.
 ## Code of Correlations : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Correlations.ipynb)
 
+## Machine Learning
+# My aim is that predicting the shark attack count for future years.
+# Checking if the distributions are suitable for Machine learning
+- Firstly I checked my most important feature Attack_count whether it has normal distribution
+- I generated a histplot, and I conducted a K-S test for Attack_count and Temperature feature.
+- When I do the tests,I found that the result of the Attack_count feature's histplot and K-S test was not suitable for normal distribution.
+- But Ocean Temperature feature was suitable for normal distribution.
+- I fixed the distribution of the Attack_count feature. Therefore, I can conduct some Machine Learning algorithms.
+- ![image](https://github.com/user-attachments/assets/614fb38c-c08d-4e25-8b26-7cb6ac2f527b)
+- As we can see from the image, the graph is skewed. Not suitable for normal distribution.
+- ![image](https://github.com/user-attachments/assets/d0d6dcb9-69e6-4386-8904-01d844ea0739)
+- Temperature distrubution is suitable for normal distribution.
+- ![image](https://github.com/user-attachments/assets/0582a7b2-ba32-402e-8daf-84f46cf1d201)
+- Taking logarithm seems worked for Attack_count feature, now it has better distrubiton for Machine learning models.
+
+
+
+
 
 
 
