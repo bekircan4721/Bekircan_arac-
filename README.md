@@ -105,7 +105,41 @@ I will clean the datasets if needed. For example if there are columns like null 
 # Random Forest
 - I decided to try Random Forest machine learning algorithm to catch the relationship between Attack_count, and Temperature features if the relationship is not linear.
 - ![image](https://github.com/user-attachments/assets/d4b9cbe0-349b-4657-8da5-f74e4b414ef1)
-- As we can see from the picture, this model has better R^^2 and MSE scores, which also means that the relationship is more likely to non-linear
+- As we can see from the picture, this model has better R^^2 and MSE scores, which also means that the relationship is more likely to non-linear.
+- Even though the result is better than Linear Regression , and Bootsrap sampling model, it still can only express the 54 % of the data which is still not good enough.
+
+## Enriching Data To Get Better Model Results
+# Adding Feature
+- The R^^2 values were not good enough to explain my data, so I decided to enrich my data by adding features.
+- Firstly, I checked shark_attack dataset's features with Ablation technique and I decided to enrich my data with the Country feature.
+- ![image](https://github.com/user-attachments/assets/0e3dc541-92d1-4b54-b212-8a94771a942e)
+- As we can see, most of the time best features are related with Country feature, thats why we enriched our data with Country feature.
+- I extend my dataset with features Year, Attack_count_log, Temperature with Country, and I conducted Machine Learning models again to see whether adding feature actually worked.
+- However, since Country feature is discrete, I firstly transformed that feature with one-hot encoding.
+# Linear Regression With Added Feature(Country)
+- ![image](https://github.com/user-attachments/assets/f784bad0-ec2f-4c30-88f5-a9285c4a23c5)
+- Before adding the feature, the R^^2 and MSE were respectively 0.39 and 0.1186. After adding the Country feature, the R^^2 increased to 0.7561, while the MSE slightly increased to 0.1640.
+- This time my Linear Regression model can explain my data with 75.6 % accuracy which is satisfying, and much better than the one without Country feature.
+- Increase in the MSE is negligible, does not affect the model performance because increase in R^^2 tolerates it.
+# Bootstrap Sampling With Added Feature(Country)
+- ![image](https://github.com/user-attachments/assets/60432010-c305-469f-ae18-96578fa0a37b)
+- Again, when I added the Country feature, average R^^2 value increased to 0.7899, and worst case scenario R^^2 value only decreased to 0.7559 which was 0.2113 before. And Best case scenario R^^2 value increased to 0.8234 with 95% confidence level.
+- These R^^2 values are significantly better than the one that before, and it can almost explain my data 75% everytime which is acceptable.
+- MSE rate is almost same with before, which indicates that eventhough R^^2 is significantly increased, my model's error rate does not affected.
+# Random Forest With added Feature(Country)
+- As I expected, the most significant improvement still occurred in the Random Forest method after adding the feature.
+- ![image](https://github.com/user-attachments/assets/f522acc1-8754-46a0-aca1-1e82da5b989c)
+- The R^^2 value increased to 0.89 which means this model almost predicts my data with 90% accuracy rate.
+- Moreover, while the MSE rate remains at 0.073 (which is the lowest one), indicates that this model not only outperforms the other models, but also has most accurate predictions. Therefore, I conclude that this is currently the most suitable model for my data.
+
+
+
+
+
+ 
+
+
+
  
 
 
