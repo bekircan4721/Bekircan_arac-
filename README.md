@@ -100,10 +100,13 @@ I will clean the datasets if needed. For example if there are columns like null 
 # Bootsrap Sampling
 - After training the linear regression model, I conducted Bootstrap Sampling to enhance my model performance and stability.
 -![image](https://github.com/user-attachments/assets/645cf2eb-ec73-44be-8edf-7fe6781f7c36)
-- The result of the all generated sample's mean is similar to the linear regression , 0.4023 with the confidence Interval CI %95 (0.2113,5969). Which means that in the worst case scenario my model can only predicts 29% accuracy, and the best case scenario 59.69% accuracy which is not satisfying.
+- The result of the all generated sample's mean is similar to the linear regression , 0.4023 with the confidence Interval CI %95 (0.2113,5969). Which means that in the worst case scenario my model can only predicts 29% accuracy, and the best case scenario 59.69% accuracy which is not good enough.
 - The Mean Square Error rate (MSE) is almost same with Linear Regression 0.1142 with 95% confidence Interval.
 # Random Forest
-- 
+- I decided to try Random Forest machine learning algorithm to catch the relationship between Attack_count, and Temperature features if the relationship is not linear.
+- ![image](https://github.com/user-attachments/assets/d4b9cbe0-349b-4657-8da5-f74e4b414ef1)
+- As we can see from the picture, this model has better R^^2 and MSE scores, which also means that the relationship is more likely to non-linear
+ 
 
 
 
