@@ -90,6 +90,21 @@ I will clean the datasets if needed. For example if there are columns like null 
 - ![image](https://github.com/user-attachments/assets/79e57125-5993-4ca8-a0cd-09cfaf0a9a4b)
 - Moreover, as we can see from the image, the result of the K-S test and the p value for the Attack_count was not suitable for normal distribution because p < 0.05.
 - After we take logarithm of the Attack_count feature, both Attack_count, and Temperature feature's p value become higher than 0.05 , which means suitable for machine learning.
+# Linear Regression
+- Firstly, I conducted Linear regression model for my normally distributed data for Attack_count(logarithm), and Temperature feature.
+- This model performs well if there is a linear relationship between features.
+- ![image](https://github.com/user-attachments/assets/aec9e374-9b00-4ff8-9642-b722ba0ea3c6)
+- As we can see the result of the model is R^^2 is 0.39, and Mean square error is 0.1186
+- Result of R^^2 which is 0.39 is not satisfying, only 39% percent of the data can be explained with this model
+- Even though R^^2 is not satisfying, the mean square error(MSE) rate of this model is somehow acceptable
+# Bootsrap Sampling
+- After training the linear regression model, I conducted Bootstrap Sampling to enhance my model performance and stability.
+-![image](https://github.com/user-attachments/assets/645cf2eb-ec73-44be-8edf-7fe6781f7c36)
+- The result of the all generated sample's mean is similar to the linear regression , 0.4023 with the confidence Interval CI %95 (0.2113,5969). Which means that in the worst case scenario my model can only predicts 29% accuracy, and the best case scenario 59.69% accuracy which is not satisfying.
+- The Mean Square Error rate (MSE) is almost same with Linear Regression 0.1142 with 95% confidence Interval.
+# Random Forest
+- 
+
 
 
 
