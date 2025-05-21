@@ -131,8 +131,8 @@ I will clean the datasets if needed. For example if there are columns like null 
 - ![image](https://github.com/user-attachments/assets/f522acc1-8754-46a0-aca1-1e82da5b989c)
 - The R^^2 value increased to 0.89 which means this model almost predicts my data with 90% accuracy rate.
 - Moreover, while the MSE rate remains at 0.073 (which is the lowest one), indicates that this model not only outperforms the other models, but also has most accurate predictions. Therefore, I conclude that this is currently the most suitable model for my data.
-
-
+# Codes For Machine Learning part
+- 📘 [Machine_learning.ipynb](https://github.com/Bekircan-arac/Machine_learning/blob/main/Machine_learning.ipynb)
 
 
 
