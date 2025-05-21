@@ -87,6 +87,10 @@ I will clean the datasets if needed. For example if there are columns like null 
 - Temperature distrubution is suitable for normal distribution.
 - ![image](https://github.com/user-attachments/assets/0582a7b2-ba32-402e-8daf-84f46cf1d201)
 - Taking logarithm seems worked for Attack_count feature, now it has better distrubiton for Machine learning models.
+- ![image](https://github.com/user-attachments/assets/79e57125-5993-4ca8-a0cd-09cfaf0a9a4b)
+- Moreover, as we can see from the image, the result of the K-S test and the p value for the Attack_count was not suitable for normal distribution because p < 0.05.
+- After we take logarithm of the Attack_count feature, both Attack_count, and Temperature feature's p value become higher than 0.05 , which means suitable for machine learning.
+
 
 
 
