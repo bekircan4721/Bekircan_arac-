@@ -131,8 +131,25 @@ I will clean the datasets if needed. For example if there are columns like null 
 - ![image](https://github.com/user-attachments/assets/f522acc1-8754-46a0-aca1-1e82da5b989c)
 - The R^^2 value increased to 0.89 which means this model almost predicts my data with 90% accuracy rate.
 - Moreover, while the MSE rate remains at 0.073 (which is the lowest one), indicates that this model not only outperforms the other models, but also has most accurate predictions. Therefore, I conclude that this is currently the most suitable model for my data.
-# Codes For Machine Learning part
+# Codes For these three comparison
 - 🚀 [Google Colab'da Aç](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning1.ipynb)
+# Decision Tree Versus Random Forest
+- As I expected, Random forest model performs better than Decision Tree model most of the time because Random Forest is a structure that evaluates multiple decision three , and choosing best features that improves the model by voting mechanism
+- ![image](https://github.com/user-attachments/assets/a538b2d4-e17c-4dc7-8f66-7f57c607966a)
+# Gradient Boosting
+- I performed Gradient Boosting method with my feature added data, And the result is satisfying.
+- R^^2 value is 0.8376, and MSE rate is 0.1092 which is not bad.
+- ![image](https://github.com/user-attachments/assets/8ac6e39a-bb84-43ef-97dc-3a389ef77068)
+- I tried to improve my model performance with Stochastic Gradient Descent.
+- And the result of SGD did not significantly changed my model performance, but it increased R^^2 to 0.8414 and MSE rate decreased to 0.1067 which is a slight improvement
+- ![image](https://github.com/user-attachments/assets/ad6c6bdc-5b77-42ee-a7e7-14fd19a7d041)
+# Support Vector Machines
+- I performed Support Vector Machines model to my data, and the R^^2 is 0.7591 , and MSE rate is 0.1620.
+- The performance of this model for my data is not bad but compared to Random Forest, it has lower accuracy and higher error rate.
+- ![image](https://github.com/user-attachments/assets/82694434-4daa-4761-8a0f-39d409b2d931)
+
+
+
 
 
 
