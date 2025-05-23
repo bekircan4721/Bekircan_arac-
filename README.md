@@ -147,10 +147,13 @@ I will clean the datasets if needed. For example if there are columns like null 
 - I performed Support Vector Machines model to my data, and the R^^2 is 0.7591 , and MSE rate is 0.1620.
 - The performance of this model for my data is not bad but compared to Random Forest, it has lower accuracy and higher error rate.
 - ![image](https://github.com/user-attachments/assets/82694434-4daa-4761-8a0f-39d409b2d931)
-
-
-
-
+# K-means Clustering
+- Firstly I performed Hard clustering, and then re-performed Random Forest model to analyze the performance difference of hard clustering.
+- R^^ result is 0.8918, and MSE rate is 0.0728 for Hard clustering which is really good.
+- Then I performed Flat clustering, and again re-performed Random Forest model to analyze the performance difference.
+- R^^2 result is 0.8869 and MSE rate is 0.0788. Flat clustering performed almost as well as Hard clustering, but there is a little decrease in R^^2 and increase in MSE.
+- Lastly, I performed Soft clustering, and I obtained the worst result from that model. R^^2 is 0.8829 ,and MSE rate is 0.0761.
+- ![image](https://github.com/user-attachments/assets/089bb964-6b7f-43dc-9f53-d8a1917568d8)
 
 
 
