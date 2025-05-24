@@ -160,10 +160,17 @@ I will clean the datasets if needed. For example if there are columns like null 
 # K-means Clustering
 - Firstly I performed Hard clustering, and then re-performed Random Forest model to analyze the performance difference of hard clustering.
 - R^^ result is 0.8918, and MSE rate is 0.0728 for Hard clustering which is really good.
+- ![image](https://github.com/user-attachments/assets/9b1f4c9a-ae60-49a6-a2db-322ef6e698a2)
+
 - Then I performed Flat clustering, and again re-performed Random Forest model to analyze the performance difference.
 - R^^2 result is 0.8869 and MSE rate is 0.0788. Flat clustering performed almost as well as Hard clustering, but there is a little decrease in R^^2 and increase in MSE.
+- ![image](https://github.com/user-attachments/assets/6766c21b-b576-4376-b4a3-2afc59ea85e1)
 - Lastly, I performed Soft clustering, and I obtained the worst result from that model. R^^2 is 0.8829 ,and MSE rate is 0.0761.
+- ![image](https://github.com/user-attachments/assets/b7444a79-c686-4231-bfaf-bace21ae4ab6)
+- Statistics of the results are below.
 - ![image](https://github.com/user-attachments/assets/089bb964-6b7f-43dc-9f53-d8a1917568d8)
+- codes of the kmeans graphs : [Open K-Means Graphs in Colab](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/kmeans_graphs.ipynb)
+
 # Codes of part2
 - [Open in Colab](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning_part2.ipynb)
 
