@@ -121,9 +121,10 @@ I will clean the datasets if needed. For example if there are columns like null 
 - As we can see, my correlation matrix seems perfectly matched.
 - Moreover, I generated a scatter plot to visualize the performance of a linear regression model. 
 - ![image](https://github.com/user-attachments/assets/af506ea1-db03-44bb-b316-f5cacb0d02ac)
+- Since I took the logarithm of attack_count feature, it seems like the performance of the model is bad, but it is not bad.
 - Most data points are clustered around the red line, so linear regression model has learned the trend line well.
 - I will calculate R^^2 of this model.
-
+- [Open in Colab](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Visualizing_machine_learning.ipynb)
 
 # Linear Regression With Added Feature(Country)
 - ![image](https://github.com/user-attachments/assets/f784bad0-ec2f-4c30-88f5-a9285c4a23c5)
