@@ -116,6 +116,15 @@ I will clean the datasets if needed. For example if there are columns like null 
 - As we can see, most of the time best features are related with Country feature, thats why we enriched our data with Country feature.
 - I extend my dataset with features Year, Attack_count_log, Temperature with Country, and I conducted Machine Learning models again to see whether adding feature actually worked.
 - However, since Country feature is discrete, I firstly transformed that feature with one-hot encoding.
+# Analyzing feature added data with corellation matrix
+- ![image](https://github.com/user-attachments/assets/8871a3d1-5078-404b-bb4f-ae85f978be43)
+- As we can see, my correlation matrix seems perfectly matched.
+- Moreover, I generated a scatter plot to visualize the performance of a linear regression model. 
+- ![image](https://github.com/user-attachments/assets/af506ea1-db03-44bb-b316-f5cacb0d02ac)
+- Most data points are clustered around the red line, so linear regression model has learned the trend line well.
+- I will calculate R^^2 of this model.
+
+
 # Linear Regression With Added Feature(Country)
 - ![image](https://github.com/user-attachments/assets/f784bad0-ec2f-4c30-88f5-a9285c4a23c5)
 - Before adding the feature, the R^^2 and MSE were respectively 0.39 and 0.1186. After adding the Country feature, the R^^2 increased to 0.7561, while the MSE slightly increased to 0.1640.
