@@ -132,7 +132,7 @@ I will clean the datasets if needed. For example if there are columns like null 
 - The R^^2 value increased to 0.89 which means this model almost predicts my data with 90% accuracy rate.
 - Moreover, while the MSE rate remains at 0.073 (which is the lowest one), indicates that this model not only outperforms the other models, but also has most accurate predictions. Therefore, I conclude that this is currently the most suitable model for my data.
 # Codes For these three comparison(part1)
-- 🚀 [Google Colab'da Aç](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning1.ipynb)
+- 🚀 [Open in Google Colab](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning1.ipynb)
 # Decision Tree Versus Random Forest
 - As I expected, Random forest model performs better than Decision Tree model most of the time because Random Forest is a structure that evaluates multiple decision three , and choosing best features that improves the model by voting mechanism
 - ![image](https://github.com/user-attachments/assets/a538b2d4-e17c-4dc7-8f66-7f57c607966a)
@@ -155,7 +155,7 @@ I will clean the datasets if needed. For example if there are columns like null 
 - Lastly, I performed Soft clustering, and I obtained the worst result from that model. R^^2 is 0.8829 ,and MSE rate is 0.0761.
 - ![image](https://github.com/user-attachments/assets/089bb964-6b7f-43dc-9f53-d8a1917568d8)
 # Codes of part2
-- [Google Colab'da Aç](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning_part2.ipynb)
+- [Open in Google Colab](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning_part2.ipynb)
 
 
 
