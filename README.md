@@ -174,10 +174,13 @@ I will clean the datasets if needed. For example if there are columns like null 
 # Codes of part2
 - [Open in Colab](https://colab.research.google.com/github/bekircan4721/Bekircan_arac-/blob/main/Machine_learning_part2.ipynb)
 
+## Conclusion
+- I visualized the relationship between ocean temperature and the frequency of shark attacks using real-world data. Firstly, I cleaned my data, and merged ocean temperature dataset with shark attack dataset. Secondly, I visualized my merged data set, and I conducted my hypothesis test. Both Pearson and Spearman correlation result's showed a significant relationship between ocean temperatures and shark attacks. P-values  were < 0.05, so I refused null hypotesis(Ho).
+
+- I conducted Machine learning models to predict the future shark attack counts by using my data. Machine learning model's results showed that while linear models like Linear Regression provided mid range results, non-linear models like Random Forest performed better. These findings indicates that there is a non-linear relationship between features that I am working. However, the  R^^2 scores showed that temperature alone may not be enought to fully explain the distribution of shark attacks, there may be other factors that might also play a role. 
 
 
 
- 
 
 
 
